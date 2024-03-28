@@ -1,10 +1,12 @@
-<h1 align="center">[=| -= Youzi9601's ReadMe.md =- |=]</h1>
+<h1 align="center">Read Me</h1>
+
 <p align="center">
   <a href="https://github.com/Youzi9601">
       <img alt="：Youzi" src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85 Author-Youzi-yellow?style=for-the-badge&logo=Github" />
   </a>
 </p>
 
+<h2 align="center">Youzi</h2>
 ## 關於我
 - > 對著程式的設計有熱情(?
 - > 對著料理製作也有熱情(?
