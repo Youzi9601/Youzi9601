@@ -14,6 +14,9 @@
 - C, C++, C#
 - Javascript, HTML, CSS
 
+## 📈 GitHub 狀態
+
+![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&theme=radical)
 
 ## 連結
 [![portfolio](https://img.shields.io/badge/%E4%BD%9C%E8%80%85%20Author-Youzi-yellow?style=for-the-badge&logo=Github)](https://github.com/Youzi9601/)
