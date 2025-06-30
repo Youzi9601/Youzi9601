@@ -2,13 +2,13 @@
 # Read Me
 
 
-## 關於我
+## 🙋‍♂️ 關於我
 - 對著程式的設計有熱情(?
 - 對著料理製作也有熱情(?
 - 對著身邊的朋友有熱情(?
 ######  (好吧...其實沒有熱情)
 
-## 能力
+## 💻 能力
 - Node.js, React.js, Vue.js, Next.js...
 - Python
 - C, C++, C#
@@ -20,12 +20,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi9601&layout=compact&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/Youzi9601/)
 
-## 連結
+## 🔗 連結
 [![portfolio](https://img.shields.io/badge/%E4%BD%9C%E8%80%85%20Author-Youzi-yellow?style=for-the-badge&logo=Github)](https://github.com/Youzi9601/)
 
 
 
-## 更多資訊
+## 📝 更多資訊
 (躺平) =w=zZZ
 
 <!--
