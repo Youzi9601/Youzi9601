@@ -16,7 +16,9 @@
 
 ## 📈 GitHub 狀態
 
-[![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&theme=radical)](https://github.com/Youzi9601/)
+[![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/Youzi9601/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi9601&layout=compact&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/Youzi9601/)
 
 ## 連結
 [![portfolio](https://img.shields.io/badge/%E4%BD%9C%E8%80%85%20Author-Youzi-yellow?style=for-the-badge&logo=Github)](https://github.com/Youzi9601/)
