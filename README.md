@@ -1,20 +1,27 @@
+[![ReadMe 看我 (owob](https://youzi-app.vercel.app/api/stats/username?name=Youzi&color=%23fff&bgColor=%230d1117&desp=一個柚子&leftPadding=0&nameSize=40&despSize=20)](https://github.com/Youzi9601/)
+---
 
-# Read Me
-
-
+[![關於我](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20%E9%97%9C%E6%96%BC%E6%88%91&context=-%20%E5%B0%8D%E8%91%97%E7%A8%8B%E5%BC%8F%E7%9A%84%E8%A8%AD%E8%A8%88%E6%9C%89%E7%86%B1%E6%83%85%28%3F%0A-%20%E5%B0%8D%E8%91%97%E6%96%99%E7%90%86%E8%A3%BD%E4%BD%9C%E4%B9%9F%E6%9C%89%E7%86%B1%E6%83%85%28%3F%0A-%20%E5%B0%8D%E8%91%97%E8%BA%AB%E9%82%8A%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%9C%89%E7%86%B1%E6%83%85%28%3F&color=%23fff&bgColor=%230d1117&leftPadding=0&titleSize=24&contextSize=16)](https://github.com/Youzi9601/)
+<!--
 ## 🙋‍♂️ 關於我
 - 對著程式的設計有熱情(?
 - 對著料理製作也有熱情(?
 - 對著身邊的朋友有熱情(?
 ######  (好吧...其實沒有熱情)
+-->
 
+
+[![能力](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%92%BB%20%E8%83%BD%E5%8A%9B&context=-%20Node.js%2C%20React.js%2C%20Vue.js%2C%20Next.js%0A-%20Python%0A-%20C%2C%20C%2B%2B%2C%20C%23%0A-%20Javascript%20(Typescript)%2C%20HTML%2C%20CSS&color=%23fff&bgColor=%230d1117&leftPadding=0&titleSize=24&contextSize=16)](https://github.com/Youzi9601/)
+<!--
 ## 💻 能力
 - Node.js, React.js, Vue.js, Next.js...
 - Python
 - C, C++, C#
 - Javascript (Typescript), HTML, CSS
+-->
 
-## 📈 GitHub 狀態
+[![📈 GitHub 狀態](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%93%88%20GitHub%20%E7%8B%80%E6%85%8B&color=%23fff&bgColor=%230d1117&leftPadding=0)](https://github.com/Youzi9601/)
+---
 
 [![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/Youzi9601/)
 
