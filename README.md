@@ -22,15 +22,15 @@
 - Javascript (Typescript), HTML, CSS
 -->
 
-[![📈 GitHub 狀態](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%93%88%20GitHub%20%E7%8B%80%E6%85%8B&color=%23fff&bgColor=%230d111700&leftPadding=0)](https://github.com/Youzi9601/#gh-dark-mode-only)
-[![📈 GitHub 狀態](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%93%88%20GitHub%20%E7%8B%80%E6%85%8B&color=%230d1117&bgColor=%23fff00&leftPadding=0)](https://github.com/Youzi9601/#gh-light-mode-only)
+[![📈 GitHub 狀態](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%93%88%20GitHub%20%E7%8B%80%E6%85%8B&color=%23fff&bgColor=none&leftPadding=0)](https://github.com/Youzi9601/#gh-dark-mode-only)
+[![📈 GitHub 狀態](https://youzi-app.vercel.app/api/stats/context?title=%F0%9F%93%88%20GitHub%20%E7%8B%80%E6%85%8B&color=%230d1117&bgColor=none&leftPadding=0)](https://github.com/Youzi9601/#gh-light-mode-only)
 ---
 
-[![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=none)](https://github.com/Youzi9601/#gh-dark-mode-only)
-[![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&locale=zh-TW&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=333&bg_color=none)](https://github.com/Youzi9601/#gh-light-mode-only)
+[![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=00000000)](https://github.com/Youzi9601/#gh-dark-mode-only)
+[![Youzi9601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youzi9601&show_icons=true&locale=zh-TW&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=333&bg_color=00000000)](https://github.com/Youzi9601/#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi9601&layout=compact&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=none)](https://github.com/Youzi9601/#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi9601&layout=compact&show_icons=true&locale=zh-TW&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=333&bg_color=none)](https://github.com/Youzi9601/#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi9601&layout=compact&show_icons=true&locale=zh-TW&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=00000000)](https://github.com/Youzi9601/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi9601&layout=compact&show_icons=true&locale=zh-TW&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=333&bg_color=00000000)](https://github.com/Youzi9601/#gh-light-mode-only)
 
 ## 🔗 連結
 [![portfolio](https://img.shields.io/badge/%E4%BD%9C%E8%80%85%20Author-Youzi-yellow?style=for-the-badge&logo=Github)](https://github.com/Youzi9601/)
